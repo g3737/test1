@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
 <?xml-stylesheet type="text/xsl" href="https://cdn.mysitemapgenerator.com/api/feedpreview_s.01.xsl"?>
 		<!--	created with www.mysitemapgenerator.com	-->
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
